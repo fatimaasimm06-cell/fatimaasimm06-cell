@@ -1,53 +1,69 @@
-# 🦖 Rawr! Welcome to Fatima's Code Jungle 🌴
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="50" height="50" alt="T-Rex" /> Software Engineering Student | AI/ML Explorer | Building Scalable & Prehistoric-Free Solutions 🚀
-
----
-
-### 🦕 About Me
-* 🎓 **BSSE Student** at Air University, Islamabad[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span).
-* 🧠 **Focus Areas:** Applied Machine Learning, LLM Application Design, and C++ Systems Programming[span_5](start_span)[span_5](end_span).
-* 🛠️ **Current Quest:** Seeking an **AI/ML Internship** to apply data-driven modeling and algorithmic optimization to real-world challenges[span_6](start_span)[span_6](end_span).
-
----
-
-### 🦴 Tech Stack & Skills (The Fossil Record)
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages & Systems** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-Hdl-%23920EE6?style=for-the-badge) |
-| **AI, ML & Data** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
-| **Core Concepts** | Supervised/Unsupervised Learning • Groq API Model Routing • Cosine Similarity • Gradient Descent • Pointers, OOP & DSA • Linear Algebra & Discrete Math[span_7](start_span)[span_7](end_span) |
-| **Tools & Hardware** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/ARDUINO-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) Cisco Packet Tracer • Proteus • UML Architecture[span_8](start_span)[span_8](end_span) |
-
----
-
-### 🌋 Featured Projects
-
-* **[AXIOM (AI eXcellence in Optimized Mentoring)](https://github.com/fatimaasimm06-cell)** *(Python, Streamlit, Groq API)*[span_9](start_span)[span_9](end_span)  
-  > Built a smart AI tutoring prototype that classifies student question complexity and routes queries to cost-effective LLM tiers with automated answer-checking fallback and token/latency logging[span_10](start_span)[span_10](end_span).
-* **[Retro-Wave Song Recommender](https://github.com/fatimaasimm06-cell)** *(Python, scikit-learn, Plotly, Streamlit)*[span_11](start_span)[span_11](end_span)  
-  > Developed a content-based music engine matching track "acoustic DNA" across 11 Spotify features using cosine similarity and RapidFuzz title matching, rendered via interactive radar charts[span_12](start_span)[span_12](end_span).
-* **[NexusVista Genomic Tool](https://github.com/fatimaasimm06-cell)** *(Python, Flask, Biopython)*[span_13](start_span)[span_13](end_span)  
-  > Created a bioinformatics web utility that parses GenBank biological files and converts genomic features into mVISTA format for comparative genomics[span_14](start_span)[span_14](end_span).
-
----
-
-### 🐾 GitHub Activity Stats
+<h1 align="center">🦖 Fatima-saurus Rex 🦖</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimaasimm06-cell&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Fatima's GitHub Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=650&lines=Rawr!+I+train+models+instead+of+hunting;Software+Engineering+student;Obsessed+with+Machine+Learning+%26+AI;Currently+evolving+into+an+AI%2FML+intern" alt="Typing intro" />
 </p>
+
+<!--
+  DINO CLIP: paste your Jurassic Park GIF link below, then delete the
+  comment markers around the <p> block.
+  How: giphy.com > search "jurassic park" > open a GIF > Copy "GIF Link"
+  (the link should end in .gif)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaasimm06-cell&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
+  <img src="PASTE_YOUR_GIF_LINK_HERE.gif" width="480" alt="Dino" />
 </p>
+-->
 
 ---
 
-### 🌿 Let's Connect!
-* **Email:** fatimaasimm06@gmail.com[span_15](start_span)[span_15](end_span)
-* **Location:** Islamabad, Pakistan[span_16](start_span)[span_16](end_span)
+## 🥚 Species profile
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sauropod.png" width="40" height="40" alt="Dino Footprint" />
+| | |
+|---|---|
+| **Species** | Software Engineering student 🎓 (Air University, Islamabad) |
+| **Habitat** | VS Code, Google Colab and way too many browser tabs |
+| **Diet** | Datasets, coffee and the occasional bug 🐛 |
+| **Natural predator** | Overfitting 😱 |
+| **Mating call** | `model.fit(X, y)` |
+| **Status** | Evolving into an AI/ML intern 🧬 |
+
+## 🧠 What this dino is hunting
+
+- 🤖 **Machine Learning**: regression, gradient descent, loss functions, and understanding the maths instead of just calling the library
+- 🗣️ **AI & LLMs**: smart systems that pick the right model for the job
+- 🎯 **Recommender systems**: teaching computers about taste
+- 📐 **Maths**: linear algebra and discrete maths, the bones of the whole skeleton
+
+## 🦴 Evolution chart
+
+```
+🥚 Hatched      → learned C++ and wrestled with pointers
+🦎 Grew legs    → Python, data structures and algorithms
+🦕 Got big      → machine learning from scratch
+🦖 Apex (WIP)   → AI/ML internship, then world domination
+```
+
+## 🌋 Fun fossils
+
+- Fluent in **C++**, **Python** and sarcasm
+- Once spent hours hunting a bug that was a missing semicolon. The bug is now extinct. So is my patience.
+- Believes every great model starts as a terrible one
+- Strongly prefers vectorised code over loops, just like a T. rex prefers big meals
+
+## 🛠️ Dino toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## 📫 Send a message through the fence
+
+- 📧 fatimaasimm06@gmail.com
+
+<p align="center">🌿 <i>Please don't feed the dino. Do hire the dino.</i> 🌿</p>
