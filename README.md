@@ -4,16 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=650&lines=Rawr!+I+train+models+instead+of+hunting;Software+Engineering+student;Obsessed+with+Machine+Learning+%26+AI;Currently+evolving+into+an+AI%2FML+intern" alt="Typing intro" />
 </p>
 
-<!--
-  DINO CLIP: paste your Jurassic Park GIF link below, then delete the
-  comment markers around the <p> block.
-  How: giphy.com > search "jurassic park" > open a GIF > Copy "GIF Link"
-  (the link should end in .gif)
-
 <p align="center">
-  <img src="PASTE_YOUR_GIF_LINK_HERE.gif" width="480" alt="Dino" />
+  <img src="https://share.google/KuvloSQLzwSFQUP6J" width="480" alt="Dino" />
 </p>
--->
 
 ---
 
@@ -36,14 +29,12 @@
 - 📐 **Maths**: linear algebra and discrete maths, the bones of the whole skeleton
 
 ## 🦴 Evolution chart
-
-```
-🥚 Hatched      → learned C++ and wrestled with pointers
-🦎 Grew legs    → Python, data structures and algorithms
-🦕 Got big      → machine learning from scratch
-🦖 Apex (WIP)   → AI/ML internship, then world domination
-```
-
+| Stage | Milestone |
+| :--- | :--- |
+| 🥚 **Hatched** | Learned C++ and wrestled with pointers |
+| 🦎 **Grew legs** | Python, data structures, and algorithms |
+| 🦕 **Got big** | Machine learning from scratch |
+| 🦖 **Apex (WIP)** | AI/ML internship, then world domination |
 ## 🌋 Fun fossils
 
 - Fluent in **C++**, **Python** and sarcasm
@@ -53,14 +44,11 @@
 
 ## 🛠️ Dino toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Section | Skills & Tools |
+|---|---|
+| **AI, ML & Data** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Core Concepts** | Supervised/Unsupervised Learning • Groq API Model Routing • Cosine Similarity • Gradient Descent • Pointers, OOP & DSA • Linear Algebra & Discrete Math |
+| **Tools & Hardware** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/ARDUINO-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) Cisco Packet Tracer • Proteus • UML Architecture |
 
 ## 📫 Send a message through the fence
 
