@@ -1,4 +1,5 @@
 <h1 align="center">🦖 Fatima-saurus Rex 🦖</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="50" height="50" alt="T-Rex" /> Software Engineering Student | AI/ML Explorer | Building Scalable & Prehistoric-Free Solutions 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=650&lines=Rawr!+I+train+models+instead+of+hunting;Software+Engineering+student;Obsessed+with+Machine+Learning+%26+AI;Currently+evolving+into+an+AI%2FML+predator" alt="Typing intro" />
