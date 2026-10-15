@@ -38,9 +38,27 @@
 - 📐 **Maths**: linear algebra and discrete maths, the bones of the whole skeleton
 
 ## 🦴 Evolution chart
+| Stage | Milestone |
+| :--- | :--- |
+| 🥚 **Hatched** | Learned C++ and wrestled with pointers |
+| 🦎 **Grew legs** | Python, data structures, and algorithms |
+| 🦕 **Got big** | Machine learning from scratch |
+| 🦖 **Apex (WIP)** | AI/ML internship, then world domination |
+## 🌋 Fun fossils
 
-```text
-🥚 Hatched      → learned C++ and wrestled with pointers
-🦎 Grew legs    → Python, data structures and algorithms
-🦕 Got big      → machine learning from scratch
-🦖 Apex (WIP)   → AI/ML predator, then world domination
+- Fluent in **C++**, **Python** and sarcasm
+- Once spent hours hunting a bug that was a missing semicolon. The bug is now extinct. So is my patience.
+- Believes every great model starts as a terrible one
+- Strongly prefers vectorised code over loops, just like a T. rex prefers big meals
+
+## 🛠️ Dino toolkit
+
+| Section | Skills & Tools |
+|---|---|
+| **AI, ML & Data** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
+| **Core Concepts** | Supervised/Unsupervised Learning • Groq API Model Routing • Cosine Similarity • Gradient Descent • Pointers, OOP & DSA • Linear Algebra & Discrete Math |
+| **Tools & Hardware** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/ARDUINO-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) Cisco Packet Tracer • Proteus • UML Architecture |
+
+## 📫 Send a message through the fence
+
+- 📧 fatimaasimm06@gmail.com
