@@ -66,16 +66,29 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,numpy,pandas,sklearn,git,github,arduino,vscode&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,html,css,figma,git,github,arduino,vscode&perline=9" alt="Skills" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" alt="Groq API" />
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Proteus-2E7D32?style=flat-square" alt="Proteus" />
   <img src="https://img.shields.io/badge/UML-Architecture-6A737D?style=flat-square" alt="UML" />
+</p>
+
+<h2 align="center">Libraries</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,sklearn&perline=4" alt="Libraries" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
 <h2 align="center">Core Concepts</h2>
