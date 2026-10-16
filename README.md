@@ -60,6 +60,11 @@
 | **Core Concepts** | Supervised/Unsupervised Learning • Groq API Model Routing • Cosine Similarity • Gradient Descent • Pointers, OOP & DSA • Linear Algebra & Discrete Math |
 | **Tools & Hardware** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/ARDUINO-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) Cisco Packet Tracer • Proteus • UML Architecture |
 
-## 📫 Send a message through the fence
-
-- 📧 fatimaasimm06@gmail.com
+​<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fatimaasim&show_icons=true&theme=dark&hide_border=true&title_color=2EA043&icon_color=2EA043" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaasim&layout=compact&theme=dark&hide_border=true&title_color=2EA043" alt="Top Languages" height="165" />
+</p>
+​📫 Send a message through the fence
+​💼 LinkedIn: Fatima Asim
+​📧 Email: fatimaasimm06@gmail.com
+​<p align="center">🌿 <i>Please don't feed the dino. Do hire the dino.</i> 🌿</p>
