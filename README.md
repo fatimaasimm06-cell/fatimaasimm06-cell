@@ -59,42 +59,38 @@
 - Believes every great model starts as a terrible one
 - Strongly prefers vectorised code over loops, just like a T. rex prefers big meals
 
-## 🛠️ Dino Toolkit
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="32" height="32" alt="T-Rex" />
+  Languages & Tools
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="32" height="32" alt="T-Rex" />
+</h2>
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,numpy,pandas,sklearn,git,github,arduino,vscode&perline=9" alt="Skills" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" alt="Groq API" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Proteus-2E7D32?style=flat-square" alt="Proteus" />
+  <img src="https://img.shields.io/badge/UML-Architecture-6A737D?style=flat-square" alt="UML" />
+</p>
 
-**AI, ML & Data**
+<h2 align="center">Core Concepts</h2>
 
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-
-**Tools & Hardware**
-
-![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=flat-square&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-2E7D32?style=flat-square)
-![UML](https://img.shields.io/badge/UML-Architecture-6A737D?style=flat-square)
-
-**Core Concepts**
-
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2EA043?style=flat-square)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-2EA043?style=flat-square)
-![Model Routing](https://img.shields.io/badge/Model_Routing-2EA043?style=flat-square)
-![Cosine Similarity](https://img.shields.io/badge/Cosine_Similarity-2EA043?style=flat-square)
-![Gradient Descent](https://img.shields.io/badge/Gradient_Descent-2EA043?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-2EA043?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-2EA043?style=flat-square)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-2EA043?style=flat-square)
-![Discrete Math](https://img.shields.io/badge/Discrete_Math-2EA043?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/Supervised_Learning-2EA043?style=flat-square" alt="Supervised Learning" />
+  <img src="https://img.shields.io/badge/Unsupervised_Learning-2EA043?style=flat-square" alt="Unsupervised Learning" />
+  <img src="https://img.shields.io/badge/Model_Routing-2EA043?style=flat-square" alt="Model Routing" />
+  <img src="https://img.shields.io/badge/Cosine_Similarity-2EA043?style=flat-square" alt="Cosine Similarity" />
+  <img src="https://img.shields.io/badge/Gradient_Descent-2EA043?style=flat-square" alt="Gradient Descent" />
+  <img src="https://img.shields.io/badge/OOP-2EA043?style=flat-square" alt="OOP" />
+  <img src="https://img.shields.io/badge/DSA-2EA043?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-2EA043?style=flat-square" alt="Linear Algebra" />
+  <img src="https://img.shields.io/badge/Discrete_Math-2EA043?style=flat-square" alt="Discrete Math" />
+</p>
 
 ---
 
