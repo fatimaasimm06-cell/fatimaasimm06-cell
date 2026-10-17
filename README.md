@@ -86,13 +86,16 @@
   <img src="https://img.shields.io/badge/UML-Architecture-6A737D?style=flat-square" alt="UML" />
 </p>
 
-<h2 align="center">Libraries</h2>
+<h2 align="center">Libraries &amp; Frameworks</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,sklearn&perline=4" alt="Libraries" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
 </p>
 
@@ -100,14 +103,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supervised_Learning-2EA043?style=flat-square" alt="Supervised Learning" />
-  <img src="https://img.shields.io/badge/Unsupervised_Learning-2EA043?style=flat-square" alt="Unsupervised Learning" />
-  <img src="https://img.shields.io/badge/Model_Routing-2EA043?style=flat-square" alt="Model Routing" />
-  <img src="https://img.shields.io/badge/Cosine_Similarity-2EA043?style=flat-square" alt="Cosine Similarity" />
-  <img src="https://img.shields.io/badge/Gradient_Descent-2EA043?style=flat-square" alt="Gradient Descent" />
-  <img src="https://img.shields.io/badge/OOP-2EA043?style=flat-square" alt="OOP" />
-  <img src="https://img.shields.io/badge/DSA-2EA043?style=flat-square" alt="DSA" />
-  <img src="https://img.shields.io/badge/Linear_Algebra-2EA043?style=flat-square" alt="Linear Algebra" />
-  <img src="https://img.shields.io/badge/Discrete_Math-2EA043?style=flat-square" alt="Discrete Math" />
+  <img src="https://img.shields.io/badge/Unsupervised_Learning-1F6FEB?style=flat-square" alt="Unsupervised Learning" />
+  <img src="https://img.shields.io/badge/Model_Routing-8E44AD?style=flat-square" alt="Model Routing" />
+  <img src="https://img.shields.io/badge/Cosine_Similarity-E91E63?style=flat-square" alt="Cosine Similarity" />
+  <img src="https://img.shields.io/badge/Gradient_Descent-FF6D00?style=flat-square" alt="Gradient Descent" />
+  <img src="https://img.shields.io/badge/OOP-00ACC1?style=flat-square" alt="OOP" />
+  <img src="https://img.shields.io/badge/DSA-D32F2F?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-5C6BC0?style=flat-square" alt="Linear Algebra" />
+  <img src="https://img.shields.io/badge/Discrete_Math-C0A000?style=flat-square" alt="Discrete Math" />
+  <img src="https://img.shields.io/badge/Assembly_Language-6E4C13?style=flat-square" alt="Assembly Language" />
 </p>
 
 ---
@@ -117,9 +121,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaasim&layout=compact&theme=dark&hide_border=true&title_color=2EA043" alt="Top Languages" height="165" />
 </p>
 
-## 📫 Send a Message Through the Fence
+<h2 align="center">📫 Send a Message Through the Fence</h2>
 
-- **LinkedIn:** [Fatima Asim](https://www.linkedin.com/in/fatima-asim-81b628407)
-- **Email:** [fatimaasimm06@gmail.com](mailto:fatimaasimm06@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatima-asim-81b628407">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatima_Asim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:fatimaasimm06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fatimaasimm06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="center">🌿 <i>Please don't feed the dino. Do hire the dino.</i> 🌿</p>
