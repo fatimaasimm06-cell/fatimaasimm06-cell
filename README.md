@@ -59,8 +59,10 @@
 - Once spent hours hunting a bug that was a missing semicolon. The bug is now extinct. So is my patience.
 - Believes every great model starts as a terrible one
 - Strongly prefers vectorised code over loops, just like a T. rex prefers big meals
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE4czNlYmVtaWJtNWRvNnVmYTgzb3M1OThtdnR4eTByeGxtemZ2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mU5I6tPNjPx7i/giphy.gif"
-  />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE4czNlYmVtaWJtNWRvNnVmYTgzb3M1OThtdnR4eTByeGxtemZ2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mU5I6tPNjPx7i/giphy.gif" alt="Dino Fun GIF" />
+</p>
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png" width="32" height="32" alt="T-Rex" />
